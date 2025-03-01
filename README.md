@@ -60,7 +60,7 @@ cd css-piano
 
 ## 📌 Aperçu du projet  
 
-![Aperçu du projet](./image.png)  
+![Aperçu du projet](./img/code_piano.png)  
 
 ---
 
