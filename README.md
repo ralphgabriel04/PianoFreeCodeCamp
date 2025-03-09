@@ -1,6 +1,3 @@
-Voici un **README** adapté pour ton projet **CSS Piano** sur GitHub :
-
----
 
 # 🎹 CSS Piano  
 
