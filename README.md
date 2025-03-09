@@ -1,24 +1,23 @@
-
 # 🎹 CSS Piano  
 
 ## 📌 Description  
-**CSS Piano** est un projet permettant de créer un clavier de piano en **HTML & CSS**, sans utiliser de JavaScript. Ce projet est idéal pour apprendre et comprendre :  
+**CSS Piano** is a project that creates a piano keyboard using **HTML & CSS**, without relying on JavaScript. This project is ideal for learning and understanding:  
 
-- **Le positionnement des éléments en CSS**  
-- **L'utilisation des pseudo-éléments (`::after`)** pour styliser les touches noires  
-- **Les media queries (`@media`)** pour rendre le piano responsive  
+- **Element positioning with CSS**  
+- **Using pseudo-elements (`::after`)** to style the black keys  
+- **Media queries (`@media`)** to make the piano responsive  
 
-Ce projet est un excellent exercice pour les débutants en **CSS avancé** et en **mise en page responsive**.  
-
----
-
-## 🛠️ Technologies utilisées  
-- **HTML5** : Structure de la page  
-- **CSS3** : Mise en page et styles  
+This project is an excellent exercise for beginners in **advanced CSS** and **responsive layout design**.  
 
 ---
 
-## 📂 Structure du projet  
+## 🛠️ Technologies Used  
+- **HTML5**: Structure of the page  
+- **CSS3**: Layout and styles  
+
+---
+
+## 📂 Project Structure  
 
 ```
 /css-piano
@@ -27,43 +26,43 @@ Ce projet est un excellent exercice pour les débutants en **CSS avancé** et en
 └── README.md
 ```
 
-### 📜 Fichiers  
-1️⃣ **index.html** : Contient la structure HTML du piano  
-2️⃣ **styles.css** : Contient les styles CSS pour afficher le piano  
+### 📜 Files  
+1️⃣ **index.html**: Contains the HTML structure of the piano  
+2️⃣ **styles.css**: Contains the CSS styles to display the piano  
 
 ---
 
-## 🚀 Installation et Exécution  
+## 🚀 Installation and Execution  
 
-### 1️⃣ Cloner le projet  
+### 1️⃣ Clone the project  
 ```sh
-git clone https://github.com/ton-profil-github/css-piano.git
+git clone https://github.com/your-profile/css-piano.git
 cd css-piano
 ```
 
-### 2️⃣ Ouvrir le fichier  
-- Ouvre **index.html** dans un navigateur pour voir le rendu.  
+### 2️⃣ Open the file  
+- Open **index.html** in a browser to see the result.  
 
 ---
 
-## 🎯 Fonctionnalités  
+## 🎯 Features  
 
-- 🎼 **Création d'un clavier de piano uniquement avec HTML & CSS**  
-- 🎨 **Utilisation avancée des `div` et des pseudo-éléments CSS**  
-- 📱 **Design responsive grâce aux media queries**  
-- 🎹 **Touches blanches et touches noires alignées pour ressembler à un vrai piano**  
-
----
-
-## 📌 Aperçu du projet  
-
-![Aperçu du projet](./img/code_piano.png)  
+- 🎼 **Creating a piano keyboard using only HTML & CSS**  
+- 🎨 **Advanced use of `div` elements and CSS pseudo-elements**  
+- 📱 **Responsive design using media queries**  
+- 🎹 **White and black keys aligned to resemble a real piano**  
 
 ---
 
-## 🔗 Exemple de code  
+## 📌 Project Preview  
 
-**HTML :**  
+![Project Preview](./img/code_piano.png)  
+
+---
+
+## 🔗 Example Code  
+
+**HTML:**  
 ```html
 <div id="piano">
   <img class="logo" src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" alt="freeCodeCamp Logo" />
@@ -76,7 +75,7 @@ cd css-piano
 </div>
 ```
 
-**CSS :**  
+**CSS:**  
 ```css
 #piano {
   background-color: #00471b;
@@ -109,21 +108,21 @@ cd css-piano
 
 ---
 
-## 📈 Améliorations possibles  
+## 📈 Possible Improvements  
 
-- **Ajouter des animations CSS** pour simuler l'appui des touches  
-- **Intégrer du JavaScript** pour jouer des sons au clic sur les touches  
-- **Créer une version avec des couleurs personnalisables**  
+- **Add CSS animations** to simulate key pressing  
+- **Integrate JavaScript** to play sounds when the keys are clicked  
+- **Create a version with customizable colors**  
 
 ---
 
-## 📝 Auteur  
+## 📝 Author  
 
 📝 **Gabriel Ralph Christian**  
-Développeur passionné par la programmation, l’intelligence artificielle et le développement web.  
+Developer passionate about programming, artificial intelligence, and web development.  
 
 ---
 
-## 📜 Licence  
+## 📜 License  
 
-📜 Ce projet est sous **licence MIT** – vous êtes libre de l'utiliser, de le modifier et de le partager.
+📜 This project is licensed under the **MIT License** – feel free to use, modify, and share it.
